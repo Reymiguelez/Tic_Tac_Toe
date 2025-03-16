@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.py
+tic_tac_toe/__init__.py
+tic_tac_toe/game.py
+tic_tac_toe.egg-info/PKG-INFO
+tic_tac_toe.egg-info/SOURCES.txt
+tic_tac_toe.egg-info/dependency_links.txt
+tic_tac_toe.egg-info/entry_points.txt
+tic_tac_toe.egg-info/top_level.txt
