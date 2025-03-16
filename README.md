@@ -1,0 +1,1 @@
+Este é um jogo da velha simples implementado em Python, perfeito para desafiar seus amigos para uma partida rápida. Mas desta vez, imagine que cada jogada é uma invocação de um poder ancestral, cada símbolo carregando a força de um dragão lendário.
